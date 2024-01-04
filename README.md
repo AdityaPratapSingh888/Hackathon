@@ -1,5 +1,5 @@
 # Sukoon 
-This is a stress-relieving website project made for the hackathon [Hackofiesta](https://hack.iiitl.ac.in/). 
+This is a stress-relieving website project 
 This project is under the theme **Healthcare.**
 This was our first hackathon.
 
@@ -56,8 +56,7 @@ Every contribution counts.
 
 For contributing guidelines and standards, visit [contributing.md](https://github.com/Susmita-Dey/Sukoon/blob/main/CONTRIBUTING.md).
 
-## Our Logo <a name = "logo"></a>
-<img src="./logo.png" width=140px height=110px alt="logo">
+
 
 ## 📸 Screenshots <a name = "screenshots"></a>
 ![readmeBanner](https://user-images.githubusercontent.com/98955085/184510782-3f699206-4768-4b3a-aa6d-40c924e13578.png)
@@ -67,37 +66,8 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-## Open Source Programs  <a name = "open_source_programs"></a>
- 
-<table>
-<tr>
- <td align="center">
-<a href="https://ssoc.devfolio.co/"><img src="https://user-images.githubusercontent.com/72400676/182021806-e7439fdd-8f9b-46a6-a1da-0bf731bbe379.png" width=100px height=100px /><br /><sub><b>Social Summer Of Code 2022</b></sub></a>
- </td>
- <td align="center">
-<a href="https://hacktoberfest.com/"><img src="https://user-images.githubusercontent.com/79099734/195970153-ee19d55b-20fc-4ddb-a91d-000773699c37.png" width=100px height=100px /><br /><sub><b>Hacktoberfest 2022</b></sub></a>
- </td>
- </tr>
-</table>
 
-## 😎 Project Admin <a name = "admin"></a>
 
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/Susmita-Dey"><img src="https://avatars.githubusercontent.com/u/79099734?v=4" width="100px;" alt=""/><br /><sub><b>Susmita Dey</b></sub></a></td>
-  </tr>
-</table>
-
-<h2>Project Contributors⭐</h2>   <a name = "contributors"></a>
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/Susmita-Dey/Sukoon/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=Susmita-Dey/Sukoon" /> 
-</a>
-</td>
-</tr>
-</table>
 
 ---
 
